@@ -19,7 +19,6 @@
     </properties>
 
     <dependencies>
-        <!--什么人间疾苦-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
