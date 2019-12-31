@@ -10,7 +10,7 @@ public class TestgitApplication {
         SpringApplication.run(TestgitApplication.class, args);
     }
 
-    public void m1() {
+    public void m2() {
 
     }
 }
